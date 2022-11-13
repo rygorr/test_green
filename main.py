@@ -23,4 +23,4 @@ driver.find_element(By.XPATH, '//*[@id="ctl00_frmLeftMenuWrap"]/div/div/div[2]')
 time.sleep(1)
 driver.find_element(By.XPATH, '//*[@id="ctl00_frmLeftMenuWrap"]/div/div/div[3]/div[13]/div').click()
 time.sleep(5)
-#дошел до нужной страницыы
+#дошел до нужной страницы
